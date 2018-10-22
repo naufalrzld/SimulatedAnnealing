@@ -57,5 +57,5 @@ func main() {
       }
     }
   }
-  fmt.Printf("Best So Far: %f", bestSoFar)
+  fmt.Printf("Best So Far: %f\n", bestSoFar)
 }
